@@ -1,0 +1,3 @@
+xbindkeys
+
+setxkbmap -model thinkpad -layout us -option caps:swapescape
