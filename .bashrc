@@ -12,3 +12,4 @@ export PATH=$PATH:~/.cabal/bin:~/.xmonad/bin
 eval "$(rbenv init -)"
 
 PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
+export PATH="/home/abergal/ctf-tools/bin:$PATH"
